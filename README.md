@@ -22,7 +22,7 @@ else:
   print("Sorry, did you hear me? I asked you if you were hungry. Yes or no?")
 ```
 
-But what if you were asked two questions, and the response was dependent on a combination of answers? We can use **logical operators** to make more complex conditions. For example, what it the response was dependent on your answers to two questions: "Are you hungry?" and "Did you finish your homework?" You can respond yes, no, or something else for both questions. Here's what it your the responses could look like in English:
+But what if you were asked two questions, and the response was dependent on a combination of answers? We can use **logical operators** to make more complex conditions. For example, what if the response was dependent on your answers to two questions: "Are you hungry?" and "Did you finish your homework?" You can respond "yes", "no", or something else for both questions. Here's what your responses could look like in English:
 
 If you're hungry AND you finished your hw:  
   Say "Great! Here's dinner and you get a big dessert because you finished all of your homework!"  
