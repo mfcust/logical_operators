@@ -51,9 +51,9 @@ elif not(hungry == 'yes' or hungry == 'no' or hw == 'yes' or hw == 'no'):
 else:
   print("Answer both of my questions seriously this time!")
 ```
-Here we are introduced to the logical operators AND, OR and NOT()
-For AND, both conditions on either side of AND need to be TRUE for the code inside the if/elif statement to run.
-For OR, either one of the conditions on either side of OR need to be TRUE for the code inside the if/elif statement to run. It's ok if one of them is false.
-For NOT(), the condition inside the parentheses needs to be FALSE for the code to run.
+Here we are introduced to the logical operators AND, OR and NOT()  
+For AND, both conditions on either side of AND need to be TRUE for the code inside the if/elif statement to run.  
+For OR, either one of the conditions on either side of OR need to be TRUE for the code inside the if/elif statement to run. It's ok if one of them is false.  
+For NOT(), the condition inside the parentheses needs to be FALSE for the code to run.  
 
 Try copying and pasting the code above into your .py file, and change your responses to the answers to see what happens!
