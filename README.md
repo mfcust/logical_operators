@@ -1,6 +1,6 @@
 # Logical Operators
 
-Recall the three types of conditional statements we've covered in class: if, elif and else
+Recall the three types of conditional statements we've covered in class: if, elif and else.
 We've used these to make our code run under certain circumstances. For example, if someone asks you if you're hungry, you may say yes, no, or respond in some other way
 
 If you are hungry
