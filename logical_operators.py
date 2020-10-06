@@ -103,4 +103,12 @@ else:
 
 
 
+###---------------------------BONUS QUESTION---------------------------###
+
+# 1) Write a program from scratch that asks the user two questions: "Is it raining?" and "Is it cold out?". Store those values as rain and cold.
+#If it is raining and it's cold, print "Better wear your raincoat!" If it's raining but not cold, print "Don't forget your umbrella!" If it isn't raining and it
+#is cold, print "Wear your warm jacket!" If it isn't raining and it isn't cold, print "It's a nice day, enjoy it! THEN if the user types in "secret password" 
+#into the response for either question, print "You figured out the secret password!!!"
+
+
 
