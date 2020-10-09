@@ -85,7 +85,7 @@ if y >= 0 and y <= 100:
 ######YOU MUST DELETE THE HINT COMMENTS IN EACH SET OF PARENTHESES IN ORDER FOR YOUR PROGRAM TO WORK######
 
 
-'''
+
 hunger = input("Are you hungry? ")
 time_of_day = input("Is it breakfast, lunch or dinner?")
 
@@ -99,7 +99,7 @@ elif ('''if hungry AND not breakfast AND not dinner'''):
   print("Get yourself some lunch, or have a snack!!")
 else:
   print("Sweet, let's go play outside!")
-'''
+
 
 
 
